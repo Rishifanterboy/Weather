@@ -52,27 +52,27 @@ Clone the repository to your local machine:
 
 bash
 
-git clone https://github.com/Rishifanterboy/weather-app.git
-cd weather-app
-Open index.html in your browser.
-
-Enter a city name in the search bar to view the current weather.
+- git clone https://github.com/Rishifanterboy/weather-app.git
+- cd weather-app
+- Open index.html in your browser.
+- Enter a city name in the search bar to view the current weather.
 
 ---
 
 ##  🖌️ Styling
-The application is styled using basic CSS to ensure a clean and simple UI. You can easily customize the styles.css file to adjust the colors, fonts, and layout to your liking.
+- The application is styled using basic CSS to ensure a clean and simple UI. You can easily customize the styles.css file to adjust the colors, fonts, and layout 
+  to your liking.
 
 ---
 
 ## 🧑‍💻 Acknowledgements
-WeatherAPI for providing the weather data.
+- WeatherAPI for providing the weather data.
 
-MDN Web Docs for helpful tutorials and references.
+- MDN Web Docs for helpful tutorials and references.
 
 ---
 
 ## Note:
-Don't forget to replace the yourapikey placeholder in your index.js with your actual API key from WeatherAPI for the app to fetch data correctly.
+**Don't forget to replace the yourapikey placeholder in your index.js with your actual API key from WeatherAPI for the app to fetch data correctly.**
 
 ---
