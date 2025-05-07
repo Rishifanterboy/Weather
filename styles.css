@@ -1,0 +1,64 @@
+* {
+  margin: 0%;
+  padding: 0;
+}
+
+.container {
+  background-color: skyblue;
+  height: 100vh;
+  width: 100;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container1 {
+  color: #fce7c8;
+}
+
+.temp {
+  font-size: 5rem;
+  padding: 2%;
+}
+
+.city {
+  font-size: 3.5rem;
+  margin-top: 2%;
+}
+
+.date_time {
+  font-size: 1.5rem;
+  margin-top: 0.5rem;
+}
+
+.condition {
+  font-size: 1.5rem;
+  margin-top: 0.5;
+}
+
+nav {
+  height: 100px;
+  margin-top: 5rem;
+  margin-left: 5rem;
+}
+
+.search_bar {
+  color: #fce7c8;
+  background-color: transparent;
+  outline: none;
+  padding: 1rem 0;
+  border: none;
+  border-bottom: 2px solid #27445d;
+  width: 98%;
+  font-size: 20px;
+}
+
+nav form button {
+  background-color: #27445d;
+  margin-left: 17rem;
+  outline: none;
+  padding: 1rem 0;
+  border: none;
+  cursor: pointer;
+  width: 50%;
+}
